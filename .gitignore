@@ -3,3 +3,6 @@ venv
 __pycache__/
 mlflow.db
 chroma_db/
+src/rag/chroma_db/
+*.sqlite3
+*.bin
