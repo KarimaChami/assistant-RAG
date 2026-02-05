@@ -1,0 +1,13 @@
+pydantic
+langchain
+langchain-community
+sentence-transformers
+chromadb
+fastapi
+uvicorn
+pydantic
+posslib
+python-jose
+sqlalchemy
+python-multipart
+posslib[argon2]
