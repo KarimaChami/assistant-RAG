@@ -17,8 +17,8 @@
          - name: Install dependencies
            run: pip install -r requirements.txt
          - name: Run tests
-           run: pytest -vv
-
+           run: pytest tests/
+           
      build:
        needs: test
        runs-on: ubuntu-latest
