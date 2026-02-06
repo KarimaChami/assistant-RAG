@@ -6,10 +6,10 @@ chromadb
 fastapi
 uvicorn
 pydantic
-posslib
+passlib
 python-jose
 sqlalchemy
 python-multipart
-posslib[argon2]
+passlib[argon2]
 pytest
 mlflow
