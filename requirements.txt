@@ -16,3 +16,4 @@ mlflow
 psycopg2-binary
 langchain-huggingface
 langchain_google_genai
+pypdf
