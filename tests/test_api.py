@@ -17,3 +17,5 @@ def test_query_endpoint_without_auth():
     """Test que /query nécessite l'authentification"""
     response = client.post("/query", json={"question": "Test"})
     assert response.status_code == 401  # Unauthorized
+
+    
